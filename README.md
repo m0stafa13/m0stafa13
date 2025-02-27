@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there! 👋  <br>💻 I'm a Computer Science and Information Technology student.<br>📚 Currently learning the fundamentals of web development and exploring different technologies.<br>📌 I love sharing knowledge and learning from the tech community!    
+## Hi there! 👋  <br>💻 I'm a Computer Science and Information Technology student.<br>📚 Currently learning the fundamentals of web development .<br>📌 I love sharing knowledge and learning from the tech community!    
 
 
 ## 🌐 Socials:
