@@ -1,4 +1,4 @@
-# Hi there! 👋<br> I am Mostafa  
+# Hi there! 👋<br>I'm Mostafa  
 ![Location](https://img.shields.io/badge/📍-Beheira,%20Egypt-blue)
 --
 💻 I'm a Computer Science and Information Technology student.  
@@ -18,11 +18,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=m0stafa13&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=m0stafa13&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m0stafa13&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
