@@ -80,7 +80,11 @@ Hi 👋, I'm Mostafa Mahmoud
 
 <img src="https://github-readme-stats.shion.dev/api?username=m0stafa13&theme=dark&hide_border=false"/>
 
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=m0stafa13&theme=dark&hide_border=false"/>
+
+<br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=m0stafa13&theme=dark&hide_border=false&layout=compact"/>
 
